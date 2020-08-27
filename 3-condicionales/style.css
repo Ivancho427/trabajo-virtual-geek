@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(205, 231, 199);
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: auto;
+  height: auto;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+
+.contenedor {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(132, 132, 230);
+}
+
+.success {
+  border: rgb(8, 85, 8) 5px solid;
+  background-color: rgb(143, 229, 143);
+  color: rgb(15, 85, 15);
+}
+
+.error {
+  border: rgb(235, 12, 42) 5px solid;
+  background-color: rgb(238, 69, 92);
+  color: rgb(228, 11, 40) ;
+}
+
+.warning {
+  border: rgb(220, 235, 12) 5px solid;
+  background-color: rgb(234, 241, 132);
+  color: rgb(220, 235, 12);
+}
+
+

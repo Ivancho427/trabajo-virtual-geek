@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(210, 240, 203);
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.main {
+    background-color: pink;
+  }
+  
+  .main__title {
+    color: red;
+  }
