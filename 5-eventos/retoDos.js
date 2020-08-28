@@ -3,9 +3,8 @@ const nombre = document.querySelector('.button');
 nombre.addEventListener('click', nombreEnConsola = () => {
     const texto = document.querySelector(".text1").value;
 
-
     if (texto === "") {
-        alert('No ha ingresado el nombre');
+        alert('No ha ingresado el nombre');    
     } else {
         console.log("Hola " + texto);
         alert('Nombre enviado a la consola correctamente');
