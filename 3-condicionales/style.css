@@ -35,4 +35,11 @@ h2 {
   color: rgb(220, 235, 12);
 }
 
+hr {    
+  height: 3px;    
+  background-color: rgb(8, 7, 7);
+}
 
+.titulos{
+  text-decoration-line: underline;
+}

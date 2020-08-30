@@ -15,3 +15,12 @@ h2 {
   .main__title {
     color: red;
   }
+
+  hr {    
+    height: 3px;    
+    background-color: rgb(8, 7, 7);
+  }
+  
+  .titulos{
+    text-decoration-line: underline;
+  }

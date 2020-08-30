@@ -28,3 +28,13 @@ body {
   width: 500px;
   height: 100px;
 }
+
+hr {
+    
+  height: 3px;    
+  background-color: rgb(8, 7, 7);
+}
+
+.titulos{
+  text-decoration-line: underline;
+}

@@ -9,7 +9,7 @@ document.querySelector('.girl1').innerHTML = `Estoy accediendo a los datos del o
 
 
 const geekGirl2 = {};
-geekGirl2.nombre = 'María';
+geekGirl2.nombre = 'Rocio';
 geekGirl2.edad = 25;
 geekGirl2.profesion = 'Actriz'; 
 

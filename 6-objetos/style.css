@@ -1,0 +1,35 @@
+.girl4 {
+    padding: 3px;
+    border: 1px rgb(9, 22, 9) solid;
+    background-color: rgb(221, 219, 216);
+}
+
+.girl5 {
+    padding: 3px;
+    margin-left: 20px;
+    border: 1px rgb(9, 22, 9) solid;
+    background-color: rgb(221, 219, 216);
+}
+
+
+.loguear {
+    padding: 3px;
+    border: 1px rgb(9, 22, 9) solid;
+    background-color: rgb(221, 219, 216);
+}
+
+.imprimir {
+    padding: 3px;
+    border: 1px rgb(9, 22, 9) solid;
+    background-color: rgb(221, 219, 216);
+}
+
+
+hr {    
+    height: 3px;    
+    background-color: rgb(8, 7, 7);
+}
+
+.titulos{
+    text-decoration-line: underline;
+}

@@ -1,16 +1,16 @@
-const geekGirl = {
+const geekGirl3 = {
     nombre: 'Susana',
     edad: 34,
     profesion: 'Periodista',  
-    deporte: (correr) => `Soy la geekGirl y en el momento estoy: ${correr}`,
+    deporte: (run) => `Soy la geekGirl y en el momento estoy: ${run}`,
     runAMarathon: {         
     recorrido: (distance) => `'Estoy corriendo una maratón de ${distance} kilómetros' `    
 
     }
   };
 
-  console.log(geekGirl.deporte('corriendo'));
-  console.log(geekGirl.runAMarathon.recorrido('50'));
+  console.log(geekGirl3.deporte('corriendo'));
+  console.log(geekGirl3.runAMarathon.recorrido('50'));
 
 // EJERCICIO 2
 // A la carrera
