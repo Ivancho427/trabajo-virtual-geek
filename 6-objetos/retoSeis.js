@@ -3,20 +3,23 @@ const contador = {
     valormaximo : 12,
     valoractual : {},
     valorminimo : 1,
-    // aumentarvalor : contador.valorminimo +1,
-    // disminuirvalor : contador.valormaximo -1,
+    aumentarvalor: "",
+    disminuirvalor: "",
 }
 
-console.log(contador);
+// console.log(contador);
+
+const sumar = (document.getElementById('contador').addEventListener('click', conct));
+
+function conct (result){    
+
+document.getElementById('resultado').innerHTML = contador.valorinicial;
 
 
-// - Contador
-// - valor inicial
-// - valor máximo
-// - valor actual
-// - valor mínimo
-// - aumentar valor
-// - disminuir valor
+
+};
+
+
 
 // EJERCICIO 6
 // Crear un contador
